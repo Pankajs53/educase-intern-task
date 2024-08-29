@@ -51,20 +51,7 @@ This eliminates the need for separate hosting services, making it easy to run th
 ## Start the project with Docker:
 
   ```bash
-  docker-compose up
+    docker-compose up --build
 
-  This command will pull the necessary Docker images, set up the MySQL database, and start the Node.js application.
-
-## Access the APIs:
-The APIs will be accessible at http://localhost:4000.
-
-### API Documentation
-You can test the APIs using the provided Postman collection. The collection includes example requests and documents expected responses.
-
-### Testing
-Use the following Postman collection to test the APIs:
-
-### Notes
-Initially, we aimed to host the project online. However, due to the lack of a free MySQL hosting service, we opted for a Docker-based setup. This approach ensures that the entire system (Node.js and MySQL) can be easily run and tested locally with a single command.
-
+This command will pull the necessary Docker images, set up the MySQL database, and start the Node.js application.
 
