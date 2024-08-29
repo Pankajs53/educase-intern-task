@@ -31,6 +31,9 @@ This project involves creating a set of APIs using Node.js, Express.js, and MySQ
 
 ## Project Setup
 
+## PROJECT SETUP AND WORKING VIDEO:
+- [TUTORIAL VIDEO](https://youtu.be/cVPmgmiePgE)
+
 ### Prerequisites
 - [Docker](https://www.docker.com/)
 
