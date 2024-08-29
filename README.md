@@ -46,6 +46,11 @@ This project involves creating a set of APIs using Node.js, Express.js, and MySQ
 I've created a `docker-compose.yml` file that sets up both the Node.js application and MySQL database.  
 This eliminates the need for separate hosting services, making it easy to run the entire setup locally.
 
+### API Documentation
+You can test the APIs using the provided Postman collection. The collection includes example requests and documents expected responses.  
+[Postman](https://www.postman.com/pankajs20/workspace/intern-task/collection/31274195-2fb69178-c48d-47e5-90db-bbb65245b3d4)
+
+
 ## Run the project:
 
 ## Start the project with Docker:
@@ -56,15 +61,11 @@ This eliminates the need for separate hosting services, making it easy to run th
  - ** This command will pull the necessary Docker images, set up the MySQL database, and start the Node.js application.
 
 ## Access the APIs:
-The APIs will be accessible at http://localhost:4000.
+The APIs will be accessible at `http://localhost:4000`.
 
-### API Documentation
-You can test the APIs using the provided Postman collection. The collection includes example requests and documents expected responses .
-[Postman](https://www.postman.com/pankajs20/workspace/intern-task/collection/31274195-2fb69178-c48d-47e5-90db-bbb65245b3d4)
 
 ### Notes
 Initially, we aimed to host the project online. However, due to the lack of a free MySQL hosting service, we opted for a Docker-based setup. This approach ensures that the entire system (Node.js and MySQL) can be easily run and tested locally with a single command.
-
 
 
 
