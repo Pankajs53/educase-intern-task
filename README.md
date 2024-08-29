@@ -38,8 +38,8 @@ This project involves creating a set of APIs using Node.js, Express.js, and MySQ
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-directory>
+   git clone https://github.com/Pankajs53/educase-intern-task.git
+   cd educase-intern-task
 
 2. ## Docker Setup:
 
