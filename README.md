@@ -37,6 +37,8 @@ This project involves creating a set of APIs using Node.js, Express.js, and MySQ
 ### Prerequisites
 - [Docker](https://www.docker.com/)
 
+## Make sure Docker is Installed And Running
+
 ### Installation & Running
 
 1. **Clone the repository**:
