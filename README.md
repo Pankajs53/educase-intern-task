@@ -46,16 +46,16 @@ This project involves creating a set of APIs using Node.js, Express.js, and MySQ
 I've created a `docker-compose.yml` file that sets up both the Node.js application and MySQL database.  
 This eliminates the need for separate hosting services, making it easy to run the entire setup locally.
 
-### Run the project:
+## Run the project:
 
-Start the project with Docker:
+## Start the project with Docker:
 
-```bash
-docker-compose up
+  ```bash
+  docker-compose up
 
-This command will pull the necessary Docker images, set up the MySQL database, and start the Node.js application.
+  This command will pull the necessary Docker images, set up the MySQL database, and start the Node.js application.
 
-### Access the APIs:
+## Access the APIs:
 The APIs will be accessible at http://localhost:4000.
 
 ### API Documentation
